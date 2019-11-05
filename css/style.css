@@ -1,0 +1,20 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 5%;
+
+
+}
+tr:nth-child(even){
+    background-color: #b3b3b3;
+}
+
+th:nth-child(even){
+    background-color: #2c7cb3;
+}
+th
+
+table ,th,tr{
+    text-align: left;
+    padding: 1px;
+}
